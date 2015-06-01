@@ -16,15 +16,14 @@ body,
     margin-left: auto;
     margin-right: auto;
     background-color: #E0E0E0;
-    height: 1024px;
-    width: 1024px;
+    height: 720px;
+    width: 720px;
     position: relative;
 }
 
 .square {
     display: inline-block;
     float: left;
-    height: 64px;
-    width: 64px;
-    background-color: blue;
+    height: 45px;
+    width: 45px;
 }
