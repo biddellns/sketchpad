@@ -1,0 +1,30 @@
+body,
+#container {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+}
+
+#buttonbar {
+    margin-top: 10px, auto;
+    height: 50px;
+    background-color: red;
+}
+
+#grid {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E0E0E0;
+    height: 1024px;
+    width: 1024px;
+    position: relative;
+}
+
+.square {
+    display: inline-block;
+    float: left;
+    height: 64px;
+    width: 64px;
+    background-color: blue;
+}
