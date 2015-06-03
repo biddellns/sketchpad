@@ -12,6 +12,10 @@ body,
     background-color: red;
 }
 
+button {
+    display: inline-block;
+}
+
 #grid {
     margin-left: auto;
     margin-right: auto;
@@ -27,3 +31,4 @@ body,
     height: 45px;
     width: 45px;
 }
+
